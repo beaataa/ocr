@@ -44,7 +44,7 @@ python ocr_standalone.py --input=document.pdf --output=output.txt --pages
 
 **Arguments:**
 - `--input`: Input PDF file (required)
-- `--output`: Output text file (default: extracted_text.txt)
+- `--output`: Output text file 
 - `--pages`: Save extracted page images
 
 ## Best Practices
