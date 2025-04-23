@@ -59,8 +59,3 @@ python ocr_standalone.py --input=document.pdf --output=output.txt --pages
   - Handwritten text
   - Low-quality scans
 - Processing speed: ~2-5 seconds/page
-
-## Troubleshooting
-1. Verify input file quality
-2. Check preprocessing results in page images
-3. Ensure system dependencies are installed
